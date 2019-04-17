@@ -3,7 +3,7 @@
 const questions = [
     {
         question: "Who won the first Super Bowl?",
-        choice: ["Chicago Bears", "Green Bay Packers", "Miami Dolphins", "Pittsburg steelers"],
+        choice: ["Chicago Bears", "Green Bay Packers", "Miami Dolphins", "Pittsburg Steelers"],
         answer: 1,
         photo: "C:\Users\Craig\code\TriviaGame\assets\images\GB-Packers.jpg"
     },
