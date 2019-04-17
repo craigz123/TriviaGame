@@ -1,0 +1,19 @@
+{
+  "name": "05-triviagame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigz123/TriviaGame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigz123/TriviaGame/issues"
+  },
+  "homepage": "https://github.com/craigz123/TriviaGame#readme"
+}
